@@ -8,7 +8,7 @@ Simple utilities and helper M-files I keep on my Maltab & Octave PATHs.  All of 
      Plot samples & FFT of samples with linear & logarithmic scales
   - =plotCurveFile.m= ::
      Read a columnar numeric file from disk, and plot an Y curve, X-Y parametric curve, or X-Y-Z surface.
-  - =runningOn.m= ::
+  - [[https://github.com/richmit/MatlabUtils/blob/main/runningOn.m][=runningOn.m=]] ::
      Return true if the code is running on the given platform (MATLAB, SciLab, Octave).
   - =simplifyCurveEuc.m= ::
     Reduce a set of points so that adjacent points are not too close together in space.
